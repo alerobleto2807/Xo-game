@@ -1,9 +1,7 @@
 ---
 applications:
 - path: .
-  name: aplication-90d-prueba
+  name: node-hello-world-example
   memory: 256M
   instances: 1
   random-route: true
-
-

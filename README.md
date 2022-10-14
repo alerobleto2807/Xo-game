@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# Node.js Hello World Sample
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application demonstrates a simple, reusable Node.js web application based on the Express framework.
 
-## Available Scripts
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Run the app locally
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. [Install Node.js][]
+1. cd into this project's root directory
+1. Run `npm install` to install the app's dependencies
+1. Run `npm start` to start the app
+1. Access the running app in a browser at <http://localhost:6001>
 
+[Install Node.js]: https://nodejs.org/en/download/
