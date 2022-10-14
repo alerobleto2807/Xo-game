@@ -1,0 +1,9 @@
+---
+applications:
+- path: .
+  name: aplication-90d-prueba
+  memory: 256M
+  instances: 1
+  random-route: true
+
+
